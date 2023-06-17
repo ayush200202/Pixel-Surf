@@ -18,5 +18,7 @@ Trending Topics: The platform displays trending topics or hashtags based on popu
 Technologies Used:
 
 Front-end: HTML, CSS , BootStrap
+
 Back-end: Php
+
 Database: MySQL
