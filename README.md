@@ -1,7 +1,9 @@
 Description:
+
 This project is a social media website that allows users to connect, interact, and share content in a virtual community. It provides a platform for users to create profiles, connect with friends, and engage in various forms of social interaction.
 
 Features:
+
 User Registration: Users can create new accounts by providing necessary information and setting up a unique profile.
 Profile Customization: Users can personalize their profiles by adding profile pictures, cover photos, and updating their bio.
 Friend Connections: Users can send friend requests and accept or reject requests from other users to establish connections.
@@ -14,6 +16,7 @@ Search Functionality: Users can search for other users, posts, or specific conte
 Trending Topics: The platform displays trending topics or hashtags based on popular discussions and user engagement.
 
 Technologies Used:
+
 Front-end: HTML, CSS , BootStrap
 Back-end: Php
 Database: MySQL
